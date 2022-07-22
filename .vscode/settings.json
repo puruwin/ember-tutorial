@@ -1,3 +1,6 @@
 {
-    "js/ts.implicitProjectConfig.experimentalDecorators": true
+    "js/ts.implicitProjectConfig.experimentalDecorators": true,
+    "workbench.tree.indent": 12,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.tabSize": 2
 }
